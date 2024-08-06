@@ -1,3 +1,5 @@
+<h1 align="center">Access the website: https://bn-zoom-clone.vercel.app</h1>
+
 # Introduction
 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
@@ -38,7 +40,7 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom, a wi
 and many more, including code architecture and reusability. 
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -77,3 +79,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 Access the website: https://bn-zoom-clone.vercel.app
+
+-->
