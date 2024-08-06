@@ -1,7 +1,7 @@
 <h1 align="center">Access the website: https://bn-zoom-clone.vercel.app</h1>
 
 # Introduction
-Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
+Developed with the latest Next.js and TypeScript, this project mirrors Zoom, a popular video conferencing tool. It allows users to securely log in, schedule meetings, and utilize features like recording, screen sharing, and participant management.
 
 
 # 🖥️ Tech Stack
@@ -31,14 +31,20 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom, a wi
 
 💡 **Personal Room**: Users have a personal room with a unique meeting link for instant meetings, shareable with others.
 
-💡 **Join Meetings via Link**: Easily join meetings created by others by providing a link.
+💡 **Join Meetings via Link**: Quickly join meetings organized by others using a provided link.
 
 💡 **Secure Real-time Functionality**: All interactions within the platform are secure and occur in real-time, maintaining user privacy and data integrity.
 
-💡 **Responsive Design**: Follows responsive design principles to ensure optimal user experience across devices, adapting seamlessly to different screen sizes and resolutions.
+💡 **Responsive Design**: Adheres to responsive design principles to provide an optimal user experience on any device, adjusting effortlessly to various screen sizes and resolutions.
 
 and many more, including code architecture and reusability. 
 
+# Screenshots:
+<img width="609" alt="Screenshot 2024-08-06 at 2 13 45 PM" src="https://github.com/user-attachments/assets/d5ba4157-1878-4939-87ae-50ecccf9a306">
+
+<img width="1439" alt="Screenshot 2024-08-06 at 2 14 07 PM" src="https://github.com/user-attachments/assets/df99afd2-7450-4e63-90b7-2593b5950838">
+
+<img width="1440" alt="Screenshot 2024-08-06 at 2 14 52 PM" src="https://github.com/user-attachments/assets/0cc170a9-1336-458f-8044-bdeb4dbe25f8">
 
 <!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
