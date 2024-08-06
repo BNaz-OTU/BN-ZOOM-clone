@@ -44,6 +44,8 @@ and many more, including code architecture and reusability.
 
 <img width="1439" alt="Screenshot 2024-08-06 at 2 14 07 PM" src="https://github.com/user-attachments/assets/df99afd2-7450-4e63-90b7-2593b5950838">
 
+<img width="1126" alt="Screenshot 2024-08-06 at 3 03 20 PM" src="https://github.com/user-attachments/assets/4196b5fc-2211-4c56-ae5d-a6fd469f70a1">
+
 <img width="1440" alt="Screenshot 2024-08-06 at 2 14 52 PM" src="https://github.com/user-attachments/assets/0cc170a9-1336-458f-8044-bdeb4dbe25f8">
 
 <!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
